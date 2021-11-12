@@ -2,11 +2,11 @@
 
 I'm a software engineer/community advocate in Vietnam, HCM. I spend most time wondering and curiosity.
 
-- 🔥 **Nextword** [Apple](https://apps.apple.com/vn/app/nextword/id1586762180)/[Android](https://play.google.com/store/apps/details?id=com.nextword.nextword)/[PWA-alpha](http://nextword-me-with-my-friends.web.app) build with Flutter with my colleagues.
-- 📹 I'm also learning video editing skill aka "Final Cut"
+- 🔥 **Nextword** [Apple](https://apps.apple.com/vn/app/nextword/id1586762180)/[Android](https://play.google.com/store/apps/details?id=com.nextword.nextword)/[PWA-alpha](http://nextword-me-with-my-friends.web.app) build with **`Flutter`** with my colleagues.
+- 📹 I'm also learning video editing skill aka 'Final Cut'
 - ✊ Visit ours blazing community at [fb.com/gdsc.hsu](https://www.facebook.com/gdsc.hsu) Google Developer Student Clubs
 - 👨🏻‍💻 I’m looking to collaborate on open source projects
-- ⚡ Func face: I'm a guys with all most of *tech* interests in "*IoT, Hardware, Protocol,...*" things are weird at my 🏠
+- ⚡ Func fact: I'm a guys with all most of *tech* interests in "`IoT, Hardware, Protocol,...`" things are weird at my 🏠
 - 🔗 [LinkedIn](https://www.linkedin.com/in/duy-hoang-8292181b4/) for work!
 - 👽 Certifications&honour are located at [here](https://github.com/truonghoangduy/cretifications-and-honour)
 
