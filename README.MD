@@ -7,7 +7,7 @@ I'm a software engineer/community advocate in Vietnam, HCM. I spend most time wo
 - ✊ Visit ours blazing community at [fb.com/gdsc.hsu](https://www.facebook.com/gdsc.hsu) Google Developer Student Clubs
 - 👨🏻‍💻 I’m looking to collaborate on open source projects
 - ⚡ Func fact: I'm a guys with all most of *tech* interests in "`IoT, Hardware, Protocol,...`" things are weird at my 🏠
-- 🔗 [LinkedIn](https://www.linkedin.com/in/duy-hoang-8292181b4/) for work!
+- 🔗 [LinkedIn](https://www.linkedin.com/in/duy-hoang-8292181b4/) for work! [CV](./docs/CV.pdf)
 - 👽 Certifications&honour are located at [here](https://github.com/truonghoangduy/cretifications-and-honour)
 
 <div>
