@@ -21,7 +21,7 @@ I'm a software engineer/community advocate in Vietnam, HCM. I spend most time wo
 [![truonghoangduy Github Stats](https://github-readme-stats.vercel.app/api?username=truonghoangduy&count_private=true&theme=default&show_icons=true)](https://github.com/truonghoangduy)
 
 ----
-*latest video via community*
+*latest video contribute via community*
 ```python
 if lazy is None:
     self.setup_github_action(#env.tokens)
